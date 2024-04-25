@@ -52,40 +52,14 @@ To get started with the project, follow these steps:
 - `PUT /api/update`: Updates user data in the database.
 - `GET /api/count`: Retrieves the count of user data from the database.
 
-## Directory Structure
-
-```
-.
-├── backend
-│   ├── controllers
-│   │   └── userController.js
-│   ├── models
-│   │   └── User.js
-│   ├── routes
-│   │   └── userRoutes.js
-│   ├── index.js
-│   └── package.json
-├── frontend
-│   ├── public
-│   │   └── index.html
-│   ├── src
-│   │   ├── components
-│   │   │   └── SignInPage.js
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json
-├── .gitignore
-└── README.md
-```
-
 ## Task Completion
 
-- [x] Create a sign-in page layout
-- [x] Implement functionality to add user data
-- [x] Implement functionality to update user data
-- [x] Implement functionality to count user data
+- [x] Create a layout
+- [x] Implement functionality to add data
+- [x] Implement functionality to update data
+- [x] Implement functionality to count data
 - [x] Integrate backend APIs for add, update, and count operations
-- [x] Ensure responsiveness of the sign-in page
+- [x] Ensure responsiveness of the page
 - [ ] Deploy the application (Deployment pending)
 
 ## Author
