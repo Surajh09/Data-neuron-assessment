@@ -24,10 +24,10 @@ To get started with the project, follow these steps:
 2. Install dependencies for both frontend and backend:
 
    ```
-   cd Data-neuron-assessment/frontend
+   cd Data-neuron-assessment/resizable-layout
    npm install
 
-   cd ../backend
+   cd /resizable-backend
    npm install
    ```
 
@@ -40,7 +40,7 @@ To get started with the project, follow these steps:
 4. Start the frontend development server:
 
    ```
-   cd ../frontend
+   cd ..
    npm start
    ```
 
